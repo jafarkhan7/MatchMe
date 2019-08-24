@@ -1,0 +1,38 @@
+{
+    {"FilterSwitch": [
+      {
+          "title" : "Has Photo"
+          "value" : false
+      },
+      {
+          "title" : "Has Contact"
+          "value" : false
+      },
+      {
+          "title" : "Favourite"
+          "value" : false
+      }
+    ]},
+    {"FilterSlider":[
+    {
+        "title" : "Combatibility Score"
+        "minvalue" : 1
+        "maxvalue" : 99
+    },
+    {
+        "title" : "Age"
+        "minvalue" : 18
+        "maxvalue" : 100
+    },
+    {
+        "title" : "Height"
+        "minvalue" : 135
+        "maxvalue" : 210
+    },
+    {
+        "title" : "Distance in KM"
+        "minvalue" : 30
+        "maxvalue" : 300
+    }]
+    }
+}
